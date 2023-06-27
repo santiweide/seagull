@@ -1,2 +1,2 @@
 # seagull
-personal blog in markdown; more than archieve
+personal blog in markdown; more than archive
